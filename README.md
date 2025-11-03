@@ -1,1 +1,1 @@
-# databricks pipeline
+# shopify databricks pipeline
